@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@cljs-oss/module-deps": "^1.1.1",
+    "@material-ui/core": "^3.2.2",
+    "deat-mui-core": "^3.0.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
